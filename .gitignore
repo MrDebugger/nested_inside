@@ -1,0 +1,3 @@
+nested_inside.egg-info/*
+build/*
+dist/*

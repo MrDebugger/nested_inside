@@ -1,0 +1,80 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Smith"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Jones"
+        }
+    ],
+    "owners": [
+        {
+            "firstName": "Jack",
+            "lastName": "Smith",
+            "age": 25,
+            "address": {
+                "streetAddress": "21 2nd Street",
+                "city": "New York",
+                "state": "NY",
+                "postalCode": "10021"
+            },
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "212 555-1234"
+                },
+                {
+                    "type": "fax",
+                    "number": "646 555-4567"
+                }
+            ],
+            "children": [
+                {
+                    "firstName": "Cathy",
+                    "age": 7
+                },
+                {
+                    "firstName": "Mark",
+                    "age": 13
+                }
+            ]
+        },
+        {
+            "firstName": "James",
+            "lastName": "Johnson",
+            "age": 32,
+            "address": {
+                "streetAddress": "31 3rd Street",
+                "city": "Chicago",
+                "state": "IL",
+                "postalCode": "60606"
+            },
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "312 555-1212"
+                },
+                {
+                    "type": "fax",
+                    "number": "312 555-1213"
+                }
+            ],
+            "children": [
+                {
+                    "firstName": "Ryan",
+                    "age": 10
+                },
+                {
+                    "firstName": "Ella",
+                    "age": 8
+                }
+            ]
+        }
+    ]
+}
